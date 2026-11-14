@@ -1,4 +1,4 @@
-# Лабораторная работа 3: Redis + Rocket Counter
+# Лабораторная работа 3: Redis + Rocket Counter + Docker-compose.yml
 
 ## Часть 1. Запуск вручную (`docker run`)
 
