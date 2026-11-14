@@ -1,4 +1,4 @@
-# Лабораторная работа: Redis + Rocket Counter
+# Лабораторная работа 3: Redis + Rocket Counter
 
 ## Часть 1. Запуск вручную (`docker run`)
 
